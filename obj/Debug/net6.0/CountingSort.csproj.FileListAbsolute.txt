@@ -1,0 +1,15 @@
+D:\GB\bootcamp\CountingSort\bin\Debug\net6.0\CountingSort.exe
+D:\GB\bootcamp\CountingSort\bin\Debug\net6.0\CountingSort.deps.json
+D:\GB\bootcamp\CountingSort\bin\Debug\net6.0\CountingSort.runtimeconfig.json
+D:\GB\bootcamp\CountingSort\bin\Debug\net6.0\CountingSort.dll
+D:\GB\bootcamp\CountingSort\bin\Debug\net6.0\ref\CountingSort.dll
+D:\GB\bootcamp\CountingSort\bin\Debug\net6.0\CountingSort.pdb
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.csproj.AssemblyReference.cache
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfoInputs.cache
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfo.cs
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.csproj.CoreCompileInputs.cache
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.dll
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\ref\CountingSort.dll
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.pdb
+D:\GB\bootcamp\CountingSort\obj\Debug\net6.0\CountingSort.genruntimeconfig.cache
